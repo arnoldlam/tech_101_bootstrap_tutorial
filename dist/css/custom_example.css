@@ -1,0 +1,15 @@
+#call-to-action {
+	text-align: center;
+	background-image: ;
+}
+
+#profile-picture {
+	width:250px;
+	height:250px;
+	border-radius:150%;
+}
+
+#blurb {
+	margin-top:20px;
+	margin-bottom:20px;
+}
